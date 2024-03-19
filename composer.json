@@ -1,0 +1,13 @@
+{
+    "name": "mellyssy/hexlet-php",
+    "description": "test hexlet php project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "melyssy",
+            "email": "ksenyatokareva@gmail.com"
+        }
+    ],
+    "require": {}
+}
